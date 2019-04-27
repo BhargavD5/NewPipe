@@ -1,0 +1,21 @@
+<h3 id="improvements">Improvements</h3>
+<ul>
+<li>make links in comments clickable, increase text size #2168</li>
+<li>seek on clicking timestamp links in comments #2207 </li>
+<li>show preferred tab based on recently selected state #2247 </li>
+<li>add playlist to queue when long clicking on &#39;Background&#39; in playlist window #2023 </li>
+<li>search for shared text when it is not an URL #1963 </li>
+<li>add &quot;share at current time&quot; button to the main video player #2271 </li>
+<li>add close button to main player when video queue is finished #1969 </li>
+<li>add &quot;Play directly in Background&quot; to longpress menu for video list items #2198 </li>
+<li>improve English translations for Play/Enqueue commands #2237</li>
+<li>small performance improvements #2178, #2179 </li>
+<li>remove unused files #2183</li>
+<li>update ExoPlayer to 2.9.6 #2184, #2311</li>
+<li>add support for Invidious links</li>
+</ul>
+<h3 id="fixed">Fixed</h3>
+<ul>
+<li>fixed scroll w/ comments and related streams disabled #2176 </li>
+<li>fixed CheckForNewAppVersionTask being executed when it shouldn&#39;t #2161 </li>
+</ul>
